@@ -1,20 +1,32 @@
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-# I'm Huy Che, you can call me Brian 😄
+## I'm Huy Che, you can call me Brian 😄
+<ul>
+  <li>🎓 I'm currently pursuing my Bachelor's in Computer Science Engineering</li>
+    <li>🔭 Job title: Frontend Developer, working at Moli Group Jsc</li>
+    <li>🌱 My short term goals is learning ReactJS then moving on Backend Development with NodeJS</li>
+    <li>🎯 Long term goals become Fullstack Developer</li>
+    <li>✨ I love to participate in different type of Web App Contents</li>
+</ul>
 
-<table>
-<tr>
-  <td valign="center">
-    🎓 I'm currently pursuing my **Bachelor's in Computer Science Engineering**.
-    🔭 Job title: Frontend Developer, working at Moli Group Jsc.
-    🌱 My short term goals is learning **ReactJS** and moving on **Backend Development**.
-    🎯 Long term goals become **Fullstack Developer**.
-    ✨ I love to participate in different type of **web app contents** .
-</td>
-<!-- # this is my daily.dev card, you can edit this accordingly -->
-<!--     <a href="https://app.daily.dev/Astrodevil"><img src="https://api.daily.dev/devcards/81fef2c2311f4739a063dbde61b40fe2.png?r=1fr" width="300" alt="Mr. Ånand's Dev Card"/></a> -->
+#### Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
-</tr>
-</table>
+
+<h2 align="center">You can reach me at 📫</h2>
+
+<p align="center">
+  <a href="https://www.facebook.com/lop.truong.374">
+    ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+  </a>
+</p>
+
+
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=CHHuy&theme=dracula&hide_border=true)
 
@@ -25,17 +37,4 @@
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=CHHuy&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="CHHuy" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=CHHuy&theme=highcontrast&hide_border=true" alt="CHHuy" />
 </p>
-<!--
-**CHHuy/CHHuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
