@@ -1,11 +1,11 @@
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 ## I'm Huy Che, you can call me Brian 😄
 
-    <p>🎓 I'm currently pursuing my Bachelor's in Computer Science Engineering</p>
-    <p>🔭 Job title: Frontend Developer, working at Moli Group Jsc</p>
-    <p>🌱 My short term goals is learning ReactJS then moving on Backend Development with NodeJS</p>
-    <p>🎯 Long term goals become Fullstack Developer</p>
-    <p>✨ I love to participate in different type of Web App Contents</p>
+    🎓 I'm currently pursuing my Bachelor's in Computer Science Engineering
+    🔭 Job title: Frontend Developer, working at Moli Group Jsc
+    🌱 My short term goals is learning ReactJS then moving on Backend Development with NodeJS
+    🎯 Long term goals become Fullstack Developer
+    ✨ I love to participate in different type of Web App Contents
 
 
 #### Frontend
