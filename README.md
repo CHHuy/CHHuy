@@ -1,12 +1,12 @@
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 ## I'm Huy Che, you can call me Brian 😄
-<ul>
-  <li>🎓 I'm currently pursuing my Bachelor's in Computer Science Engineering</li>
-    <li>🔭 Job title: Frontend Developer, working at Moli Group Jsc</li>
-    <li>🌱 My short term goals is learning ReactJS then moving on Backend Development with NodeJS</li>
-    <li>🎯 Long term goals become Fullstack Developer</li>
-    <li>✨ I love to participate in different type of Web App Contents</li>
-</ul>
+
+    <p>🎓 I'm currently pursuing my Bachelor's in Computer Science Engineering</p>
+    <p>🔭 Job title: Frontend Developer, working at Moli Group Jsc</p>
+    <p>🌱 My short term goals is learning ReactJS then moving on Backend Development with NodeJS</p>
+    <p>🎯 Long term goals become Fullstack Developer</p>
+    <p>✨ I love to participate in different type of Web App Contents</p>
+
 
 #### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://www.facebook.com/lop.truong.374">
-    ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+    Facebook
   </a>
 </p>
 
