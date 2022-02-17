@@ -4,7 +4,7 @@
     🎓 I'm currently pursuing my Bachelor's in Computer Science Engineering
     🔭 Job title: Frontend Developer, working at Moli Group Jsc
     🌱 My short term goals is learning ReactJS then moving on Backend Development with NodeJS
-    🎯 Long term goals become Fullstack Developer
+    🎯 About long term goals: become Fullstack Developer
     ✨ I love to participate in different type of Web App Contents
 
 
